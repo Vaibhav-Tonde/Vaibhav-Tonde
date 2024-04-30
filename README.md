@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Tonde</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://simplepassivecashflow.com/wp-content/uploads/2017/11/Work-Fun.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav-tonde&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-tonde" /> </p>
 
 - 🌱 I’m currently learning **React Native, Java, Firebase.**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Java, Springboot,Hibernate, JDBC,Python, Mysql**
 
 - 📫 How to reach me **vaibhavtonde2929@gmail.com**
 
